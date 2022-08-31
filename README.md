@@ -1,2 +1,1 @@
-My first readme
-so easy.
+coding is interesting
